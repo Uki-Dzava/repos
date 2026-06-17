@@ -1,7 +1,9 @@
 h1 {
-<<<<<<< HEAD
 	color:green;
 	font-size:5px;
 	text-align:left;
 	font-weight:bold;
+}
+a {
+	text-decoration: none;
 }
